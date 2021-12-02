@@ -1,5 +1,5 @@
 
-with open("Data/aoc_01a.txt", "r") as aoc_01_data:
+with open("Data/aoc_01.txt", "r") as aoc_01_data:
     lines = [int(n) for n in aoc_01_data.readlines()]
     
 # Part 1
