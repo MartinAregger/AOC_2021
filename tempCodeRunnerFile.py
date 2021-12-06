@@ -1,4 +1,4 @@
-    match (np.where(np.sum(grid, axis=0)>grid.shape[0]/2, True, False)[i]):
-#         case True:
-#             grid = np.where(grid[i],1,0) * grid
-# print(grid)
+for d in range(256):
+#     if(d==80): print(sum(bd))
+#     bd[d % 7], bd[7], bd[8] = bd[d % 7] + bd[7], bd[8], bd[d % 7]
+# print(sum(bd))
